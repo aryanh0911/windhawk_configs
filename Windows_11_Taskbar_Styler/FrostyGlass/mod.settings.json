@@ -1,0 +1,11 @@
+{
+  "theme": "FrostyGlass",
+  "styleConstants[0]": "",
+  "themeResourceVariables[0]": "",
+  "clickThroughTaskbar": 1,
+  "xamlDiagnosticsHandling": "alert",
+  "controlStyles[0].target": "SystemTray.Stack#ShowDesktopStack",
+  "controlStyles[0].styles[0]": "Visibility=visible",
+  "controlStyles[1].target": "SystemTray.OmniButton#NotificationCenterButton > Grid > ContentPresenter > ItemsPresenter > StackPanel > ContentPresenter > SystemTray.IconView#SystemTrayIcon > Grid > Grid > SystemTray.TextIconContent",
+  "controlStyles[1].styles[0]": "Visibility=visible"
+}
