@@ -1,0 +1,12 @@
+{
+  "theme": "Surface",
+  "styleConstants[0]": "",
+  "controlStyles[0].target": "Taskbar.TaskListButtonPanel > Border#BackgroundElement",
+  "controlStyles[0].styles[0]": "Background=Transparent",
+  "controlStyles[0].styles[1]": "BorderThickness=0",
+  "controlStyles[1].target": "Taskbar.TaskListLabeledButtonPanel > Border#BackgroundElement",
+  "controlStyles[1].styles[0]": "Background=Transparent",
+  "controlStyles[1].styles[1]": "BorderThickness=0",
+  "themeResourceVariables[0]": "",
+  "xamlDiagnosticsHandling": "alert"
+}
