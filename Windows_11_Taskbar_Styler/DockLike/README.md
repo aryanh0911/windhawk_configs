@@ -8,4 +8,4 @@
 
 
 ## Bugs:
-- Show-desktop button on the right side of the system tray got cut off visually although it is present and functions properly.
+- [x] ~~Show-desktop button on the right side of the system tray got cut off visually although it is present and functions properly.~~

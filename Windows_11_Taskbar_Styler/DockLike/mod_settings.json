@@ -1,5 +1,6 @@
 {
   "theme": "DockLike",
+  "styleConstants[0]": "",
   "controlStyles[0].target": "Taskbar.TaskbarFrame > Grid#RootGrid",
   "controlStyles[0].styles[0]": "Margin=0,1,0,3",
   "controlStyles[0].styles[1]": "CornerRadius=8",
@@ -15,5 +16,9 @@
   "controlStyles[4].styles[0]": "Background:=<WindhawkBlur BlurAmount=\"30\" TintColor=\"#4D000000\" />",
   "controlStyles[5].target": "Grid#SystemTrayFrameGrid",
   "controlStyles[5].styles[0]": "Background:=<WindhawkBlur BlurAmount=\"30\" TintColor=\"#4D000000\" />",
-  "clickThroughTaskbar": 1
+  "controlStyles[6].target": "SystemTray.Stack#ShowDesktopStack",
+  "controlStyles[6].styles[0]": "Width=24",
+  "themeResourceVariables[0]": "",
+  "clickThroughTaskbar": 1,
+  "xamlDiagnosticsHandling": ""
 }
