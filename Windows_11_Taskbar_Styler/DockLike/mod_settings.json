@@ -1,0 +1,19 @@
+{
+  "theme": "DockLike",
+  "controlStyles[0].target": "Taskbar.TaskbarFrame > Grid#RootGrid",
+  "controlStyles[0].styles[0]": "Margin=0,1,0,3",
+  "controlStyles[0].styles[1]": "CornerRadius=8",
+  "controlStyles[1].target": "Grid#SystemTrayFrameGrid",
+  "controlStyles[1].styles[0]": "Margin=8,1,8,3",
+  "controlStyles[2].target": "Taskbar.TaskbarFrame > Grid#RootGrid",
+  "controlStyles[2].styles[0]": "BorderThickness=1",
+  "controlStyles[2].styles[1]": "BorderBrush:=<SolidColorBrush Color=\"{ThemeResource SurfaceStrokeColorDefault}\" />",
+  "controlStyles[3].target": "Grid#SystemTrayFrameGrid",
+  "controlStyles[3].styles[0]": "BorderThickness=1",
+  "controlStyles[3].styles[1]": "BorderBrush:=<SolidColorBrush Color=\"{ThemeResource SurfaceStrokeColorDefault}\" />",
+  "controlStyles[4].target": "Grid#RootGrid",
+  "controlStyles[4].styles[0]": "Background:=<WindhawkBlur BlurAmount=\"30\" TintColor=\"#4D000000\" />",
+  "controlStyles[5].target": "Grid#SystemTrayFrameGrid",
+  "controlStyles[5].styles[0]": "Background:=<WindhawkBlur BlurAmount=\"30\" TintColor=\"#4D000000\" />",
+  "clickThroughTaskbar": 1
+}
