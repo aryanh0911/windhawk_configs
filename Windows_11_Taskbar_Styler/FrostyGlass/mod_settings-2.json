@@ -1,9 +1,0 @@
-{
-  "theme": "FrostyGlass",
-  "styleConstants[0]": "",
-  "themeResourceVariables[0]": "",
-  "clickThroughTaskbar": 1,
-  "xamlDiagnosticsHandling": "",
-  "controlStyles[0].target": "SystemTray.Stack#ShowDesktopStack",
-  "controlStyles[0].styles[0]": "Visibility=visible"
-}
